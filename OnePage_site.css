@@ -1,0 +1,142 @@
+h1{
+    text-align: center;
+    font-size: xx-large;
+    padding: 100px;
+}
+.top{
+    margin: 10px;
+    height: 140px;
+    width:auto;
+    padding: 50px 50px;
+    background-color: green;
+    color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 100px;
+}
+.top a{
+    padding: 0 20px;
+    color: black;
+    list-style-position: inside;
+}
+#sec1{
+    background-color:orange;
+    color: black;
+    padding: 250px 410px;
+    margin: 110px;
+    width: 300px;
+    height: 120px;
+    align-items: center;
+    opacity: 1;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: bolder;
+    text-align: center;
+    text-decoration: solid;
+    overflow: hidden;
+    border-radius: 30px;
+}
+#sec1 p .p1{
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+#sec1 img{
+    background-size: cover;
+}
+
+#sec2{
+    background-color:sienna;
+    color: black;
+    padding: 250px 410px;
+    margin: 110px;
+    width: 300px;
+    height: 120px;
+    align-items: center;
+    opacity: 1;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: bolder;
+    text-align: center;
+    text-decoration: solid;
+    overflow: hidden;
+    border-radius: 30px;
+}
+#sec2 p .p2{
+    text-align: center;
+    padding: 25px;
+    color: white;
+    margin: auto;
+}
+
+#sec3{
+    background-color:tomato;
+    color: black;
+    padding: 250px 410px;
+    margin: 110px;
+    width: 300px;
+    height: 120px;
+    align-items: center;
+    opacity: 1;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: bolder;
+    text-align: center;
+    text-decoration: solid;
+    overflow: hidden;
+    border-radius: 30px;
+}
+#sec3 p .p3{
+    text-align: center;
+    padding: 25px;
+    color: white;
+    margin: auto;
+}
+
+#sec4{
+    background-color:violet;
+    color: black;
+    padding: 250px 410px;
+    margin: 110px;
+    width: 300px;
+    height: 120px;
+    align-items: center;
+    opacity: 1;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: bolder;
+    text-align: center;
+    text-decoration: solid;
+    overflow: hidden;
+    border-radius: 30px;
+}
+#sec4 p .p4{
+    text-align: center;
+    padding: 80px;
+    color: white;
+    margin: auto;
+}
+#sec4 img{
+    background-size: cover;
+    padding: 80px;
+}
+#bottom{
+    margin: 30px;
+    height: 19px;
+    width:auto;
+    padding: 5px 100px;
+    background-color: green;
+    color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    border-radius: 50px;
+}
+#bottom a{
+    padding: 5px 20px;
+    color: black;
+    list-style-position: inside;
+    font-style: normal;
+    text-decoration: none;
+}
+body{
+    background-image: url("win_10.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
